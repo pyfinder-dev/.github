@@ -6,7 +6,7 @@ PyFinder is a Python wrapper around the [FinDer](https://docs.gempa.de/sed-eew/c
 ## Repositories
 - [**pyfinder**](https://github.com/pyfinder-dev/pyfinder): The main Python wrapper around the FinDer executable.
 - [**pyfinder-docker**](https://github.com/pyfinder-dev/pyfinder-docker): Docker images and configurations for running PyFinder in containerized environments.
-- [**param-ws**](https://github.com/pyfinder-dev/param-ws): A parametric web service framework supporting PyFinder and related tools.
+- [**paramws-clients**](https://github.com/pyfinder-dev/paramws-clients): A parametric web service framework supporting PyFinder and related tools.
 
 ## History
 PyFinder originated as part of the [DT-GEO project](https://dtgeo.eu), which focused on geospatial data processing and analysis. The original DT-GEO DTC-E6 repository can be found [here](https://github.com/DT-Geo-SED-ETHZ/DTC-E6). After the conclusion of DT-GEO, PyFinder has continued as an independent project, evolving to meet the needs of its user community.
